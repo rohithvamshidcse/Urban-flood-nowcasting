@@ -1,6 +1,3 @@
-# Urban-flood-nowcasting
--Flood project: Urban flood risk map with safe route suggestions, built with Python, Flask and Leaflet.js.         -Resume website: My personal resume and bio-data website built with HTML, CSS and jQuery.
-
 # Urban Flood Nowcasting System
 
 A web app that shows flood risk on an interactive map and suggests safe routes that avoid flooded areas.
